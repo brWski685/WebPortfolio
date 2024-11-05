@@ -25,4 +25,4 @@ function typeWriter(id, text, speed, index_1, index_2) {
     }
 }
 
-typeWriter("typewriter_animation_1" , ["Hier finden Sie eine Auswahl meiner Projekte."], 15, 0, 0);
+typeWriter("typewriter_animation_1" , ["Hier finden Sie eine Auswahl meiner Projekte."], 30, 0, 0);
